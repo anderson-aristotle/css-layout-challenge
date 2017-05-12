@@ -21,23 +21,17 @@ cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
-Describe behavioral requirements as you'll be using them in tests. That is,
-list requirements in language that describes how the written code will be used,
-not how it will be written, with the exception of constraints you may wish to
-place on implementation. It's a good idea to include the below paragraph
-verbatim.
+Using HTML and CSS create a webpage using the following wireframe:
 
-You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. After `grunt nag` passes, you should
-run `grunt test` to run the included tests. Tests will tell you whether of not
-you've met these requirements.
+![wireframe](https://cloud.githubusercontent.com/assets/10408784/14149781/ce8a81d8-f673-11e5-9581-2ce80b305c7d.png)
+
+Remember to run `grunt serve` to spin up your local server to work in.
 
 ## Bonus
 
-Bonuses are described after the requirements, if included. They should be worked
-on **only after** passing requirements.
+This should be worked on **only after** passing requirements.
 
-Sometimes, we ask questions that promote thinking critically about code.
+Add content to your page.
 
 ## [License](LICENSE)
 
