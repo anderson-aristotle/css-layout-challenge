@@ -21,19 +21,26 @@ cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
-Using HTML and CSS create a webpage using the following wireframe:
+Describe behavioral requirements as you'll be using them in tests. That is,
+list requirements in language that describes how the written code will be used,
+not how it will be written, with the exception of constraints you may wish to
+place on implementation. It's a good idea to include the below paragraph
+verbatim.
 
-![wireframe](https://cloud.githubusercontent.com/assets/10408784/14149781/ce8a81d8-f673-11e5-9581-2ce80b305c7d.png)
-
-Remember to run `grunt serve` to spin up your local server to work in.
+You should be running `grunt nag` before diagnosing any bugs, since it finds
+some of the most common sources of errors. After `grunt nag` passes, you should
+run `grunt test` to run the included tests. Tests will tell you whether of not
+you've met these requirements.
 
 ## Bonus
 
-This should be worked on **only after** passing requirements.
+Bonuses are described after the requirements, if included. They should be worked
+on **only after** passing requirements.
 
-Add content to your page.
+Sometimes, we ask questions that promote thinking critically about code.
 
 ## [License](LICENSE)
 
-Source code distributed under the MIT license. Text and other assets copyright
-General Assembly, Inc., all rights reserved.
+1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
+1.  All software code is licensed under GNU GPLv3. For commercial use or
+    alternative licensing, please contact legal@ga.co.
