@@ -10,35 +10,35 @@ The object returned can be used to validate the form data.
 **in `api.js`**
 
 ```js
-'use strict';
+'use strict'
 
 const ajaxDefaults = {
   url: 'http://localhost:3000',
-};
+}
 
 const myRequest = (data, success, fail) => {
   $.ajax(Object.assign({ method: 'POST', data }, ajaxDefaults))
   .done(success)
-  .fail(fail);
-};
+  .fail(fail)
+}
 
 module.exports = {
   myRequest,
-};
+}
 ```
 
 **in `ui.js`**
 
 ```js
-'use strict';
+'use strict'
 
 const success = (data) => {
   // handle success
-};
+}
 
 const failure = (err) => {
   // handle failure
-};
+}
 
 module.exports = {
   success,
@@ -49,17 +49,17 @@ module.exports = {
 **in `index.js`**
 
 ```js
-'use strict';
+'use strict'
 
-const getFormFields = require('../../lib/get-form-fields');
-const api = require('./api');
-const ui = require('./ui');
+const getFormFields = require('../../lib/get-form-fields')
+const api = require('./api')
+const ui = require('./ui')
 
 $(() => {
   $('#my-form').on('submit', function (e) {
-    let data = getFormFields(this);
-    e.preventDefault();
-    api.myRequest(data, ui.success, ui.failure);
-  });
-});
+    let data = getFormFields(this)
+    e.preventDefault()
+    api.myRequest(data, ui.success, ui.failure)
+  })
+})
 ```
