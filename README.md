@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
--   [html-css-layout](https://github.com/ga-wdi-boston/html-css-layout)
+-   [html-css-layout](https://git.generalassemb.ly/ga-wdi-boston/html-css-layout)
 
 ## Instructions
 
@@ -15,9 +15,9 @@
 
 A pull request is not required, but it is necessary if you want a code review.
 
-You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
 related to [forking,
-cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
