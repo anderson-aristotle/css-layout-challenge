@@ -21,7 +21,8 @@ cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
-Using HTML and CSS create a webpage using the following wireframe:
+Using `index.html` for HTML and `assets/styles/index.scss` for CSS,
+create a webpage using the following wireframe:
 
 ![wireframe](https://cloud.githubusercontent.com/assets/10408784/14149781/ce8a81d8-f673-11e5-9581-2ce80b305c7d.png)
 
