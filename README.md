@@ -4,14 +4,14 @@
 
 ## Prerequisites
 
--   [html-css-layout](https://git.generalassemb.ly/ga-wdi-boston/html-css-layout)
+- [html-css-layout](https://git.generalassemb.ly/ga-wdi-boston/html-css-layout)
 
 ## Instructions
 
-1.  Fork and clone this repository into your `challenges` directory.
-1.  Install dependencies via `npm install`.
-1.  Create and checkout a `response` branch to work on.
-1.  Fulfill the listed requirements.
+1. Fork and clone this repository into your `challenges` directory.
+1. Install dependencies via `npm install`.
+1. Create and checkout a `response` branch to work on.
+1. Fulfill the listed requirements.
 
 A pull request is not required, but it is necessary if you want a code review.
 
@@ -35,6 +35,6 @@ Add content to your page.
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
